@@ -1,5 +1,8 @@
 # second-day-try
-second day learning repository
+EDIT second day learning repository FOLDER
+
 This is my second day following instructions as best I can.
-Thank you.
+
 Really want this to work, but still do not undestand.
+
+What can I do differently to understand?
